@@ -1,0 +1,15 @@
+C:\Users\328-1\Desktop\shumkova_PR-31\практика 3\bin\Debug\практика 3.exe.config
+C:\Users\328-1\Desktop\shumkova_PR-31\практика 3\bin\Debug\практика 3.exe
+C:\Users\328-1\Desktop\shumkova_PR-31\практика 3\bin\Debug\практика 3.pdb
+C:\Users\328-1\Desktop\shumkova_PR-31\практика 3\obj\Debug\практика 3.csproj.AssemblyReference.cache
+C:\Users\328-1\Desktop\shumkova_PR-31\практика 3\obj\Debug\MainWindow.g.cs
+C:\Users\328-1\Desktop\shumkova_PR-31\практика 3\obj\Debug\App.g.cs
+C:\Users\328-1\Desktop\shumkova_PR-31\практика 3\obj\Debug\практика 3_MarkupCompile.cache
+C:\Users\328-1\Desktop\shumkova_PR-31\практика 3\obj\Debug\практика 3_MarkupCompile.lref
+C:\Users\328-1\Desktop\shumkova_PR-31\практика 3\obj\Debug\MainWindow.baml
+C:\Users\328-1\Desktop\shumkova_PR-31\практика 3\obj\Debug\практика 3.g.resources
+C:\Users\328-1\Desktop\shumkova_PR-31\практика 3\obj\Debug\практика_3.Properties.Resources.resources
+C:\Users\328-1\Desktop\shumkova_PR-31\практика 3\obj\Debug\практика 3.csproj.GenerateResource.cache
+C:\Users\328-1\Desktop\shumkova_PR-31\практика 3\obj\Debug\практика 3.csproj.CoreCompileInputs.cache
+C:\Users\328-1\Desktop\shumkova_PR-31\практика 3\obj\Debug\практика 3.exe
+C:\Users\328-1\Desktop\shumkova_PR-31\практика 3\obj\Debug\практика 3.pdb
